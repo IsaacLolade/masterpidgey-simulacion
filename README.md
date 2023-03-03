@@ -34,5 +34,6 @@ git tag v0.1
 git push origin v0.1
 
 | NOMBRE | GITHUB|
+|        |       | 
 |CARLES | [CARLES](https://github.com/CharlyMech)|
 |HUGO   | [HUGO](https://github.com/NoObX17)|
