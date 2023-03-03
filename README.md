@@ -7,4 +7,11 @@ git commit -m "README subido"
 
 git push origin main 
 
+mkdir privada
+
+nano privada.txt
+
+nano .gitignore
+
+
 
